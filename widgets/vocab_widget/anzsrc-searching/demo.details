@@ -1,0 +1,11 @@
+
+---
+ name: Vocabulary widget ANZSRC searching
+ description: Search a vocabulary for matching terms, provided in an autocomplete-style list
+ resources:
+   - http://researchdata.ands.org.au/apps/assets/vocab_widget/css/vocab_widget.css
+   - http://researchdata.ands.org.au/apps/assets/vocab_widget/js/vocab_widget.js
+ normalize_css: no
+ ...
+
+
